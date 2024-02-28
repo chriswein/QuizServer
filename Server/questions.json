@@ -1,0 +1,93 @@
+[
+    {
+      "text": "What is the capital of France?",
+      "answers": [
+        {"text": "Paris", "correct": true},
+        {"text": "Berlin", "correct": false},
+        {"text": "Madrid", "correct": false},
+        {"text": "Rome", "correct": false}
+      ]
+    },
+    {
+      "text": "Which planet is known as the Red Planet?",
+      "answers": [
+        {"text": "Earth", "correct": false},
+        {"text": "Jupiter", "correct": false},
+        {"text": "Venus", "correct": false},
+        {"text": "Mars", "correct": true}
+      ]
+    },
+    {
+      "text": "What is the largest mammal on Earth?",
+      "answers": [
+        {"text": "Elephant", "correct": false},
+        {"text": "Polar Bear", "correct": false},
+        {"text": "Blue Whale", "correct": true},
+        {"text": "Giraffe", "correct": false}
+      ]
+    },
+    {
+      "text": "In which year did the Titanic sink?",
+      "answers": [
+        {"text": "1910", "correct": false},
+        {"text": "1920", "correct": false},
+        {"text": "1912", "correct": true},
+        {"text": "1930", "correct": false}
+      ]
+    },
+    {
+      "text": "Who wrote 'Romeo and Juliet'?",
+      "answers": [
+        {"text": "Charles Dickens", "correct": false},
+        {"text": "William Shakespeare", "correct": true},
+        {"text": "Jane Austen", "correct": false},
+        {"text": "Mark Twain", "correct": false}
+      ]
+    },
+    {
+      "text": "In Star Trek, what is Captain Kirk's middle name?",
+      "answers": [
+        {"text": "Tiberius", "correct": true},
+        {"text": "James", "correct": false},
+        {"text": "Jonathan", "correct": false},
+        {"text": "Christopher", "correct": false}
+      ]
+    },
+    {
+      "text": "Which species does Spock belong to?",
+      "answers": [
+        {"text": "Klingon", "correct": false},
+        {"text": "Vulcan", "correct": true},
+        {"text": "Bajoran", "correct": false},
+        {"text": "Borg", "correct": false}
+      ]
+    },
+    {
+      "text": "What is the name of Captain Picard's ship in Star Trek: The Next Generation?",
+      "answers": [
+        {"text": "USS Voyager", "correct": false},
+        {"text": "USS Defiant", "correct": false},
+        {"text": "USS Enterprise", "correct": true},
+        {"text": "USS Excelsior", "correct": false}
+      ]
+    },
+    {
+      "text": "Who is the captain of the USS Voyager in Star Trek: Voyager?",
+      "answers": [
+        {"text": "Captain Sisko", "correct": false},
+        {"text": "Captain Archer", "correct": false},
+        {"text": "Captain Janeway", "correct": true},
+        {"text": "Captain Kirk", "correct": false}
+      ]
+    },
+    {
+      "text": "What is the Klingon homeworld called?",
+      "answers": [
+        {"text": "Romulus", "correct": false},
+        {"text": "Cardassia", "correct": false},
+        {"text": "Qo'noS", "correct": true},
+        {"text": "Ferenginar", "correct": false}
+      ]
+    }
+  ]
+  
